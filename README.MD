@@ -38,6 +38,6 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 
 - **Contact Information**:
-  - Email: mohamedhalith.smh@gmail.com
-  - LinkedIn: [@mohamed-halith-smh](https://www.linkedin.com/in/mohamed-halith-smh)
-  - GitHub: [@halith-smh](https://github.com/halith-smh)
+  - Email: mokesh1811@gmail.com
+  - LinkedIn: [@Mokeshwar P](https://www.linkedin.com/in/mokeshwar-p-7a9b58249)
+  - GitHub: [@halith-smh]()
